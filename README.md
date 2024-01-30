@@ -24,3 +24,17 @@ Skills:
 - 📫 How to reach me: himuete@gmail.com 
 - ⚡ Fun fact: : Singing, I love to travel with my motorcycle. 
 
+
+![shawonhimu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawonhimu&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+
+![shawonhimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawonhimu&theme=darcula&show_icons=true&hide_border=true&count_private=true)  
+
+![shawonhimu's GitHub streak stats](https://streak-stats.demolab.com/?user=shawonhimu&theme=darcula&show_icons=true&hide_border=true&count_private=true)  
+
+
+
+### Where to find me
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawonhimu/) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shawonhimu8)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shawonhimu8)
