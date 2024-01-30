@@ -21,7 +21,7 @@ Skills:
 
 - 🌱 I’m currently learning React, VUE and Tailwind 
 - 💬 Ask me about Laravel, MySQL, RDBMS, Awesome Design with raw CSS 
-- 📫 How to reach me: himuete@gmail.com 
+- 📫 How to reach me: https://himuit.com/contact
 - ⚡ Fun fact: : Singing, I love to travel with my motorcycle. 
 
 
